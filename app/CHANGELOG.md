@@ -1283,3 +1283,5 @@
 
 * Show app version in footer ([#72](https://github.com/mimir-labs/mimir-wallet/issues/72)) ([29ee27f](https://github.com/mimir-labs/mimir-wallet/commit/29ee27f2d7258cd921604ca57bce555bea0db60d))
 * Show Balance when kill pure account ([#71](https://github.com/mimir-labs/mimir-wallet/issues/71)) ([af0f6f9](https://github.com/mimir-labs/mimir-wallet/commit/af0f6f9dde8854be28494da9ec808992ca93e612))
+
+<!-- Auto-update: 2025-10-25T11:32:48.151645 -->
